@@ -1,0 +1,7 @@
+cd .. > volta um diretorio
+git config --global user.name "Gilvandro Brandão"
+git config --global user.email "gilbrandaoalves@gmail.com"
+ls ou tree para ver conteudo das pastas
+
+Branch são as versões diferentes do sistema
+git -A >Para adicionar o novo arquivo
